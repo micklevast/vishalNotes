@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishalNotes/static/css/main.9f4bffa0.css",
+    "main.js": "/vishalNotes/static/js/main.cf59b48b.js",
+    "index.html": "/vishalNotes/index.html",
+    "main.9f4bffa0.css.map": "/vishalNotes/static/css/main.9f4bffa0.css.map",
+    "main.cf59b48b.js.map": "/vishalNotes/static/js/main.cf59b48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4bffa0.css",
+    "static/js/main.cf59b48b.js"
+  ]
+}
