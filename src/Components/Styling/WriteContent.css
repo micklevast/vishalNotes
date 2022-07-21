@@ -1,0 +1,34 @@
+#formm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 45vw;
+    height: 30vh;
+    margin-top: 20px;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin-left:29vw ;
+    margin-right: 22vw;
+}
+#title,#content{
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin-bottom: 2px;
+
+}
+/* .myform{
+    display: flex;
+    flex-direction: row;
+
+} */
+.btn{
+    margin: -26px 19vw 0px 72.4vw;
+    /* border: .0000001px solid blue; */
+}
+
+.displayContent{
+    display: inline-block;
+    /* flex-direction: row; */
+}
